@@ -5,13 +5,13 @@ h1 {
 
 p {
     color: white;
-    font-family: "arial";
+    font-family: "times new roman";
     text-indent: 20px;
     margin-left: 10px;
 }
 
 #content {
-    background-color: orange;
+    background-color: grey;
     width: 500px;
     min-height: 300px;
     padding: 10px;
