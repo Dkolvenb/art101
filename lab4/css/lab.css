@@ -1,0 +1,64 @@
+main{
+  background-color: pink;
+  padding: 30px;
+}
+
+h4{
+  text-align: center;
+  font-size: 3em;
+}
+
+
+h1{
+  text-align: center;
+}
+
+#task1{
+  background-color: white;
+  padding: 10px;
+  margin-right: 1050px;
+  line-height: 10px;
+
+}
+
+#task2{
+  background-color: white;
+  padding: 10px;
+  margin-left: 1100px;
+  margin-top: -303px;
+  text-align: right;
+  line-height: 10px;
+}
+
+#task3{
+  background-color: white;
+  padding: 10px;
+  margin-left: 575px;
+  margin-right: 615px;
+  margin-top: 10px;
+  text-align: center;
+  line-height: 10px;
+}
+
+h2{
+  text-align: center;
+}
+
+h5{
+  font-size: 2em;
+  text-align: center;
+}
+
+#psuedo{
+  background-color: white;
+}
+
+#cpr{
+  line-height: 100%;
+  text-align: center;
+  background-color: white;
+  padding: 10px;
+  font-size: 1.2em;
+  margin-left: 300px;
+  margin-right: 300px;
+}
