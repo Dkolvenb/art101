@@ -1,0 +1,20 @@
+body{
+  background-color: pink;
+}
+
+img{
+  width: 600px;
+  height: 300px;
+}
+
+#content{
+  background-color: white;
+  padding: 10px;
+  line-height: 20px;
+  text-align: left;
+  min-height: 400px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
