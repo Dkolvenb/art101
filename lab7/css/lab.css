@@ -1,0 +1,19 @@
+body{
+  background-color: pink;
+}
+
+h1{
+  text-align:center;
+  padding: 10px;
+  background-color: white;
+  margin-left: 700px;
+  margin-right: 700px;
+  font-family: cursive;
+}
+
+#content{
+  background-color: white;
+  padding: 30px;
+  text-align: left;
+  font-family: cursive;
+}
