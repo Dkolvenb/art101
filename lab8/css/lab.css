@@ -1,0 +1,16 @@
+body{
+  background-color: pink;
+  padding: 10px;
+}
+
+#content{
+  padding: 20px;
+  background-color: white;
+  text-align: center;
+  min height: 1000px;
+  margin: 20px;
+  height: 80vh;
+}
+ h1{
+   text-align: center;
+ }
