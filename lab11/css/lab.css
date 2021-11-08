@@ -10,3 +10,12 @@ body{
   text-align: center;
   font-family: cursive;
 }
+
+.sectionbox {
+  padding: 10px;
+}
+
+.special {
+  background-color: lightgrey;
+  border: solid 1px black;
+}
