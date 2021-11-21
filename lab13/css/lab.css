@@ -1,0 +1,33 @@
+body{
+  background-color: pink;
+  padding: 20px;
+}
+
+#content{
+  background-color: white;
+  padding: 20px;
+  min-height: 90vh;
+  text-align: center;
+  font-family: cursive;
+}
+
+div#input, div#output {
+    border: solid 1px #ccc;
+    padding: 20px;
+}
+
+#output p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#output.cols {
+    -webkit-column-width: 200px; 
+    -moz-column-width: 200px;
+    column-width: 200px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
