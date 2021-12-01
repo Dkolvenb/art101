@@ -1,0 +1,12 @@
+body{
+  background-color: pink;
+  padding: 20px;
+}
+
+#content{
+  background-color: white;
+  padding: 20px;
+  min-height: 90vh;
+  text-align: center;
+  font-family: cursive;
+}
